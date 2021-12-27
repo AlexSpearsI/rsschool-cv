@@ -39,7 +39,7 @@ Code Example
 Skills
 ------
 
-HTML/CSS, JavaScript, Git, Scala, Python Basics
+HTML/CSS, JavaScript Basics, Git, Scala, Python Basics  
 
 Education
 ---------
